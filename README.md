@@ -17,7 +17,7 @@ The username is validated using a regular expression.
 
 How to Use:
 
-Simply open the index.html file in your web browser. Enter a valid LeetCode username in the input field and click the "Search" button to view the statistics. The application fetches the data from the https://leetcode-stats-api.herokuapp.com/ API.
+Simply open the index.html file in your web browser. Enter a valid LeetCode username in the input field and click the "Search" button to view the statistics. The application fetches the data from the https://alfa-leetcode-api.onrender.com/userProfile/ API.
 
 Technologies Used:
 
