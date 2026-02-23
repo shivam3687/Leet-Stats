@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", function() {
         searchButton.textContent = "Searching...";
         searchButton.disabled = true;
 
-        const targetUrl = 'https://leetcode-api-faisalshohag.vercel.app/' + username;
+        const targetUrl = 'https://alfa-leetcode-api.onrender.com/userProfile/' + username;
         
         const response = await fetch(targetUrl);
 
